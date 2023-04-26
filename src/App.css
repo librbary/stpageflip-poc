@@ -1,0 +1,42 @@
+.album-web {
+  background: white;
+  text-align: center;
+}
+
+.page {
+  box-shadow: 0 1.5em 3em -1em rgb(70, 69, 69);
+  background: white;
+}
+
+.cover {
+  background-color: rgb(251, 225, 139);
+  box-shadow: 0 1.5em 3em -1em rgb(70, 69, 69);
+}
+
+.controller {
+ 
+  color: inherit;
+  appearance: none;
+  font-size: 1em;
+  line-height: 1.2;
+  padding: 0.5em var(--padding-x);
+  gap: 1rem;
+}
+.btn {
+  background-color: aquamarine;
+  display: inline-flex;
+  justify-content: center;
+  align-items: center;
+  padding: 10px;
+  border-color: transparent;
+  border-radius: 10px;
+  cursor: pointer;
+}
+
+.controller {
+  align-items: center;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  
+}
